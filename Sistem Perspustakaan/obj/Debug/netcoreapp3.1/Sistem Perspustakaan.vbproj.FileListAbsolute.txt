@@ -1,0 +1,8 @@
+D:\KULIAH\IK1E SEMESTER GENAP\Pemrograman Visual (Bu Wiktasari)\Sistem Perspustakaan\Sistem Perspustakaan\obj\Debug\netcoreapp3.1\Sistem Perspustakaan.vbprojAssemblyReference.cache
+D:\KULIAH\IK1E SEMESTER GENAP\Pemrograman Visual (Bu Wiktasari)\Sistem Perspustakaan\Sistem Perspustakaan\obj\Debug\netcoreapp3.1\Sistem_Perspustakaan.frmMBuku.resources
+D:\KULIAH\IK1E SEMESTER GENAP\Pemrograman Visual (Bu Wiktasari)\Sistem Perspustakaan\Sistem Perspustakaan\obj\Debug\netcoreapp3.1\Sistem_Perspustakaan.Resources.resources
+D:\KULIAH\IK1E SEMESTER GENAP\Pemrograman Visual (Bu Wiktasari)\Sistem Perspustakaan\Sistem Perspustakaan\obj\Debug\netcoreapp3.1\Sistem Perspustakaan.vbproj.GenerateResource.cache
+D:\KULIAH\IK1E SEMESTER GENAP\Pemrograman Visual (Bu Wiktasari)\Sistem Perspustakaan\Sistem Perspustakaan\obj\Debug\netcoreapp3.1\Sistem Perspustakaan.AssemblyInfoInputs.cache
+D:\KULIAH\IK1E SEMESTER GENAP\Pemrograman Visual (Bu Wiktasari)\Sistem Perspustakaan\Sistem Perspustakaan\obj\Debug\netcoreapp3.1\Sistem Perspustakaan.AssemblyInfo.vb
+D:\KULIAH\IK1E SEMESTER GENAP\Pemrograman Visual (Bu Wiktasari)\Sistem Perspustakaan\Sistem Perspustakaan\obj\Debug\netcoreapp3.1\Sistem Perspustakaan.vbproj.CoreCompileInputs.cache
+D:\KULIAH\IK1E SEMESTER GENAP\Pemrograman Visual (Bu Wiktasari)\Sistem Perspustakaan\Sistem Perspustakaan\obj\Debug\netcoreapp3.1\Sistem_Perspustakaan.frmMAnggota.resources
